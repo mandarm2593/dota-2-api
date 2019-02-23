@@ -15,9 +15,14 @@
   "bugs": {
     "url": "https://github.com/mandarm2593/dota-2-api/issues"
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    },
   "homepage": "https://github.com/mandarm2593/dota-2-api#readme",
   "dependencies": {
-    "commitizen": "^3.0.7"
+    "commitizen": "^3.0.7",
+    "cz-conventional-changelog": "^2.1.0"
   },
   "devDependencies": {
     "standard-version": "^5.0.0"
