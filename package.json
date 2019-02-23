@@ -1,6 +1,6 @@
 {
   "name": "dota-2-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dota 2 Api GraphQL",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
-    },
+    }
+  },
   "homepage": "https://github.com/mandarm2593/dota-2-api#readme",
   "dependencies": {
     "commitizen": "^3.0.7",
