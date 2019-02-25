@@ -1,6 +1,6 @@
 {
   "name": "dota-2-api",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Dota 2 Api GraphQL",
   "main": "index.js",
   "scripts": {
