@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/mandarm2593/dota-2-api.git"
   },
-  "author": "Mandar Mathure",
+  "author": "Mandar Mathure",  
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mandarm2593/dota-2-api/issues"
