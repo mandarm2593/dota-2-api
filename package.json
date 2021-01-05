@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mandarm2593/dota-2-api#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "commitizen": "^3.0.7",
     "cz-conventional-changelog": "^2.1.0",
